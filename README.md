@@ -4,12 +4,7 @@
     target="_blank"
     href="https://activepieces.com"
   >
-    <img
-      align="center"
-      alt="Activepieces"
-src="https://github.com/activepieces/activepieces/assets/1812998/76c97441-c285-4480-bc75-30a0c73ed340"
-      style="width:100%;"
-    />
+   
     
   </a>
 </h1>
