@@ -74,7 +74,7 @@ Your friendliest open source all-in-one automation tool, designed to be **extens
 - **💻 Human Input Interfaces**: Built-in support for human input triggers like "Chat Interface" 💬 and "Form Interface" 📝
 
 <p align="center">
-<a href="https://computir.ai" target="_blank"><img src='https://cdn.prod.website-files.com/66fdc9030e6fb1187780ccd8/671a915ae2f4c1275ca63b9b_Computir%20Project%20Inner-fix.jpg' /></a>
+<a href="https://computir.ai" target="_blank"><img src='https://cdn.prod.website-files.com/66fdc9030e6fb1187780ccd8/671a9196985b833c5c2c1906_Computir%20Project%20Inner-fix2.jpg' /></a>
 </p>
 
 ## 🛠️  Builder Features:
