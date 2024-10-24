@@ -2,7 +2,7 @@
 <h1 align="center">
   <a
     target="_blank"
-    href="https://activepieces.com"
+    href="https://computir.ai"
   >
    
     
@@ -19,15 +19,15 @@
 
 <p align="center">
   <a
-    href="https://www.activepieces.com/docs"
+    href="https://www.computir.ai/documentation"
     target="_blank"
   ><b>Documentation</b></a>&nbsp;&nbsp;&nbsp;🌪️&nbsp;&nbsp;&nbsp;
    <a
-    href="https://www.activepieces.com/docs/developers/overview"
+    href="https://www.computir.ai/overview"
     target="_blank"
   ><b>Integrations Galore</b></a>&nbsp;&nbsp;&nbsp;🖉&nbsp;&nbsp;&nbsp;
   <a
-    href="https://www.activepieces.com/docs/install/overview"
+    href="https://www.computir.ai/installation"
     target="_blank"
   ><b>Easy to Deploy</b></a>&nbsp;&nbsp;&nbsp;🔥&nbsp;&nbsp;&nbsp;
   <a
