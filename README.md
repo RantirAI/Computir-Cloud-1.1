@@ -37,7 +37,9 @@
     <b>Join Discord</b>
   </a>
 </p>
-
+<p align="center">
+<a href="https://computir.ai" target="_blank"><img src='https://cdn.prod.website-files.com/66fdc9030e6fb1187780ccd8/671a72cbbafa780b650ff4e5_Computir%20Fall%202024.jpg' /></a>
+</p>
 <br>
 <br>
 
