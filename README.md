@@ -14,7 +14,7 @@
 <a href="/LICENSE" target="_blank"><img src='https://img.shields.io/badge/license-MIT-green?style=for-the-badge' /></a>
 </p>
 <p align="center">
-   An open source replacement for Zapier
+   Your AI agent maker, with CMS, Content, Integrations and App Builder. Create the next internet. 
 </p>
 
 <p align="center">
