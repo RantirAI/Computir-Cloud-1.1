@@ -38,7 +38,7 @@
   </a>
 </p>
 <p align="center">
-<a href="https://computir.ai" target="_blank"><img src='https://cdn.prod.website-files.com/66fdc9030e6fb1187780ccd8/671a72cbbafa780b650ff4e5_Computir%20Fall%202024.jpg' /></a>
+<a href="https://computir.ai" target="_blank"><img src='https://cdn.prod.website-files.com/66fdc9030e6fb1187780ccd8/671a76cc639cd3a23f5c0a94_Computir%20Fall%202024.jpg' /></a>
 </p>
 <br>
 <br>
@@ -73,7 +73,9 @@ Your friendliest open source all-in-one automation tool, designed to be **extens
 
 - **💻 Human Input Interfaces**: Built-in support for human input triggers like "Chat Interface" 💬 and "Form Interface" 📝
 
-
+<p align="center">
+<a href="https://computir.ai" target="_blank"><img src='https://cdn.prod.website-files.com/66fdc9030e6fb1187780ccd8/671a76cc4575bc022f5d75b0_Computir%20Project%20Inner.jpg' /></a>
+</p>
 
 ## 🛠️  Builder Features:
 
