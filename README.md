@@ -11,7 +11,7 @@
 
 
 <p align="center">
-<a href="/LICENSE" target="_blank"><img src='https://img.shields.io/badge/license-MIT-green?style=for-the-badge' /></a>&nbsp;<img src='https://img.shields.io/github/commit-activity/w/activepieces/activepieces/main?style=for-the-badge' />&nbsp;<a href='https://discord.gg/2jUXBKDdP8'><img src='https://img.shields.io/discord/966798490984382485?style=for-the-badge' /></a>
+<a href="/LICENSE" target="_blank"><img src='https://img.shields.io/badge/license-MIT-green?style=for-the-badge' /></a>
 </p>
 <p align="center">
    An open source replacement for Zapier
@@ -25,13 +25,13 @@
    <a
     href="https://www.activepieces.com/docs/developers/overview"
     target="_blank"
-  ><b>Create a Piece</b></a>&nbsp;&nbsp;&nbsp;🖉&nbsp;&nbsp;&nbsp;
+  ><b>Integrations Galore</b></a>&nbsp;&nbsp;&nbsp;🖉&nbsp;&nbsp;&nbsp;
   <a
     href="https://www.activepieces.com/docs/install/overview"
     target="_blank"
-  ><b>Deploy</b></a>&nbsp;&nbsp;&nbsp;🔥&nbsp;&nbsp;&nbsp;
+  ><b>Easy to Deploy</b></a>&nbsp;&nbsp;&nbsp;🔥&nbsp;&nbsp;&nbsp;
   <a
-    href="https://discord.gg/yvxF5k5AUb"
+    href="https://discord.gg/UPTJ5Muf"
     target="_blank"
   >
     <b>Join Discord</b>
@@ -41,20 +41,20 @@
 <br>
 <br>
 
-# 🤯 Welcome to Activepieces
+# 🤯 Build Integrated AI applications and Agents without code. 
 
 Your friendliest open source all-in-one automation tool, designed to be **extensible** through a **type-safe** pieces framework written in **Typescript**.
 
 <br>
 <br>
 
-## 🔥 Why Activepieces is Different:
+## 🔥 The next generation of building on the internet with integrations and AI agents on the forefront
 
 - **💖 Loved by Everyone**: Intuitive interface and great experience for both technical and non-technical users with a quick learning curve.
   
 ![](/resources/templates.gif)
 
-- **🌐 Open Ecosystem:** All pieces are open source and available on npmjs.com, **60% of the pieces are contributed by the community**.
+- **🌐 Open Ecosystem:** All pieces are open source and available on npmjs.com, **60% of the pieces are contributed by the community**. We are integration forward with added tools nesteled inside our product for a AI-first Content Managmenet and AI Appliaction builder directly inside.
 
 - **🛠️  Pieces are written in Typescript**: Pieces are npm packages in TypeScript, offering full customization with the best developer experience, including **hot reloading** for **local** piece development on your machine. 😎
 
@@ -63,7 +63,7 @@ Your friendliest open source all-in-one automation tool, designed to be **extens
 
 - **🤖 AI-Ready**: Native AI pieces let you experiment with various providers, or create your own agents using our AI SDK, and there is Copilot to help you build flows inside the builder.
 
-- **🏢 Enterprise-Ready**: Developers set up the tools, and anyone in the organization can use the no-code builder. Full customization from branding to control.
+- **🏢 Enterprise-Ready with Custom Integrations**: We can customize the AI applications AND then integrations necessary for your business, and anyone in the organization can use the no-code builder. Full customization from branding to control.
 
 - **🔒 Secure by Design**: Self-hosted and network-gapped for maximum security and control over your data.
 
@@ -75,27 +75,27 @@ Your friendliest open source all-in-one automation tool, designed to be **extens
 
 ## 🛠️  Builder Features:
 
-- [x] Loops
-- [x] Branches
-- [x] Auto Retries
-- [x] HTTP
+- [x] AI Application
+- [x] AI Content and Powerful Notetaking 
+- [x] AI feedback and Knowledge graph
+- [x] Enterprise ready and we can customize everything!
 - [x] Code with **NPM**
 - [x] ASK AI in Code Piece (Non technical user can clean data without knowing to code)
 - [x] Flows are fully versioned.
 - [x] Languages Translations
 - [x] Customizable Templates
-- [X] 200+ Pieces, check https://www.activepieces.com/pieces
+- [X] 200+ Integrations, check https://www.computir.ai/integrations
 
 **We release updates frequently. Check the product changelog for the latest features.**
 
 
-## 🔌 Create Your Own Piece
+## 🔌 Create Your Own Integrations for any type of business
 
-Activepieces supports integrations with Google Sheets, OpenAI, Discord, RSS, and over 200 other services. [Check out the full list of supported integrations](https://www.activepieces.com/pieces), which is constantly expanding thanks to our community's contributions.
+Computir supports integrations with Google Sheets, OpenAI, Discord, RSS, and over 200 other services, which is constantly expanding thanks to our community's contributions.
 
-As an **open ecosystem**, all integration source code is accessible in our repository. These integrations are versioned and [published](https://www.npmjs.com/search?q=%40activepieces) directly to npmjs.com upon contribution.
+As an **open ecosystem** including the nesteled installed Applications.
 
-You can easily create your own integration using our TypeScript framework. For detailed instructions, please refer to our [Contributor's Guide](https://www.activepieces.com/docs/contributing/overview).
+You can easily create your own apps or customize our applications using our TypeScript framework. For detailed instructions, please refer to our documentation
 
 <br>
 <br>
@@ -105,10 +105,9 @@ You can easily create your own integration using our TypeScript framework. For d
 
 # License
 
-Activepieces' Community Edition is released as open source under the [MIT license](https://github.com/activepieces/activepieces/blob/main/LICENSE) and enterprise features are released under [Commercial License](https://github.com/activepieces/activepieces/blob/main/packages/ee/LICENSE)
+Computir' Community Edition is released as open source under the [MIT license] and enterprise will be licensed directly to your business (except for resell or embed into another SaaS). 
 
-
-Read more about the feature comparison here https://www.activepieces.com/docs/about/editions
+Read more about the feature comparison here https://www.computir.ai/pricing
 <br>
 <br>
 
@@ -116,7 +115,3 @@ Read more about the feature comparison here https://www.activepieces.com/docs/ab
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://allcontributors.org) specification.
-Contributions of any kind are welcome!
